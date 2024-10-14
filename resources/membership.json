@@ -335,5 +335,12 @@
 		"name": "CALYEE",
 		"description": "追求充实，分享快乐。",
 		"github_username": "yikoutian1"
+	},
+       "62": {
+		"domain": "skyner.cn",
+		"icon": "https://skyner.cn/favicon.svg",
+		"name": "计算机软件技术中介",
+		"description": "Hello World",
+		"github_username": "shenhuanjie"
 	}
 }
